@@ -15,9 +15,9 @@
     {
       "value": {
         "tag": "c:gems/diamond",
-        "type": "c:tag_empty"
+        "type": "fabric:tag_empty"
       },
-      "type": "c:not"
+      "type": "fabric:not"
     }
   ]
 }
